@@ -2,13 +2,24 @@
 <head>
 </head>
 <body>
-<h1>Natasha Mayor</h1>
+<h1>Natasha's First Web Page</h1>
 <p>Contact info: 
-</br>
-natasha.mayor@tufts.edu
-</br>
-+1&nbsp(408)&nbsp702-7040
+ </br>
+ natasha.mayor@tufts.edu
+ </br>
+ +1&nbsp(408)&nbsp702-7040
 </p>
+</br>
+<h3>About Me</h3>
+<p>I'm originally from San Jose, California but have been living in Somerville, MA for the last 4 years!
+</br>
+My IP address is 10.133.0.1
+</br>
+I really enjoy doing the New York Times daily mini crossword puzzle and get pretty competitive with my friends. 
+We have a daily leaderboard that tracks how fast each person solves the puzzle (I'm usually in the top 3).
+</p>
+
+<!-- insert image here -->
 
 </body>
 </html>
